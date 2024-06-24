@@ -10,4 +10,10 @@
             "dest": "Minor_Proj/wsgi.py"
         }
     ]
+    ,
+    "functions": {
+    "api/*.js": {
+      "runtime": "python3.9"
+    }
+  }
 }
